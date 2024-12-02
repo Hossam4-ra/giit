@@ -1,0 +1,23 @@
+#div{
+    text-align: center;
+    margin-top: 15%;
+}
+#container1{
+    font-weight: 900;
+    font-size: 200%;
+}
+#container2{
+    background-color: blueviolet;
+    font-weight: 900;
+    font-size: 200%;
+}
+#container3{
+    background-color: orangered;
+    font-weight: 900;
+    font-size: 200%;
+}
+#container4{
+    background-color: orange;
+    font-weight: 900;
+    font-size: 200%;
+}
